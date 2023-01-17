@@ -1,0 +1,40 @@
+
+<html>
+
+<head>
+
+<title>Order and Unorder </title>
+
+</head>
+<body>
+<h1> <center><u> Order Unorder </u> </center></h1>
+
+<p> <b> UNORDER LIST <b></p>
+
+<ul type="disc" > 
+<li>Coffee</li> 
+<li>Milk</li> 
+<li>Tea</li> 
+</ul> <br>
+
+<p><b> ORDER LIST </b></p>
+
+<ol type="I"; start="2"> 
+<li>Coffee</li> 
+<li>Milk</li> 
+<li>Tea</li> 
+</ol>
+
+<img src="https://image.shutterstock.com/image-photo/modern-flat-screen-computer-monitor-260nw-1491612221.jpg" alt="COMPUTER"> <br>
+
+<p> Internal linking</p>
+
+<a href="Practical 2.html">TABLE</a> <br>
+
+<p> External linking</p> 
+
+<a href="http://www.google.com">GOOGLE </a>
+
+</body>
+
+</html>
