@@ -1,0 +1,68 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+<title> PRACTICAL 10 </title> 
+</head> 
+<body background= "https://www.teahub.io/photos/full/299-2995051_magazinebackground-design-hd.jpg" ; 
+style="background-repeat:no-repeat; background-attachment:fixed; backgroundsize:100% 100%">
+
+<h1 style="color: Red;"> 
+<center> Subscribe to XYZ News Magazine and Emails 
+</center> 
+</h1>
+
+<center> 
+<img src="http://clipart-library.com/img/2049821.jpg" width="260" height="155" > </center> 
+
+<h2 style="color:Blue;"> 
+<center> " The most important magazine to the world’s most important people " 
+</center>
+</h2>
+
+<p1> <font size="4.5" face="Bahnschrift Condensed"> 
+Interested in receiving daily small updates of all latest News? Well, now you can. And best of all, it is free ! Just fill out this form and submit it by clicking the "Send It In" button. We will put you on our mailing list and you will receive your first email in 3-5 days. 
+</font> 
+</p1>
+<br> 
+<hr> 
+<br> 
+
+<p2> <font size="3" face="Arial Black"> 
+Please fill the following boxes to help us send the emails and our news letter . 
+</font> 
+</p2>
+<br> <br> 
+
+<form> 
+First name : <input type="text" name="firstname"> <br> <br>
+Last name : &nbsp; <input type="text" name="lastname"> <br> <br>
+Business : &nbsp;&nbsp;&nbsp; <input type="text" name="business"> <br> <br>
+City Name : <input type="text" name="city"> <br> <br> 
+<b> We must have a correct E-mail Address to send you the NEWS letter : </b> 
+
+<br> 
+Email ID : &nbsp;&nbsp; <input type="text" name="email" size= "30" > <br> <br>
+
+<b> Magazine Categories </b> : <select>
+<option value="Select">Select</option> 
+<option value="General News Magazines"> General News Magazines </option> 
+<option value="Art Magazines">Art Magazines </option> 
+<option value="Fashion Magazines">Fashion Magazines </option> 
+<option value="Children's Magazines">Children's Magazines </option> 
+</select> 
+<br> <br>
+
+<b> How did you hear about XYZ News Magazine and Emails ? </b> <br> <br>
+<input type="radio" name="Source" id = "Web"> Web 
+<input type="radio" name="Source" id = "Magazine"> Magazine 
+<input type="radio" name="Source" id = "Television"> Television 
+<input type="radio" name="Source" id = "Others"> Others <br> <br>
+<b> Would you like to be on our regular mailing list ? </b> <br>
+<input type="checkbox" name="" id = "Yes "> Yes <br> 
+<input type="checkbox" name="" id = "No" > No <br> 
+<hr> 
+<input type="Reset" value = "Reset" > &nbsp;&nbsp; 
+<input type="Submit" value = "Send It In! " > 
+</form> 
+</body> 
+</html>
